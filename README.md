@@ -49,4 +49,4 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 ### Instructions
 
-Follow the instructions in `Continuous_Control_SingleAgent.ipynb` or `Continuous_Control_MultiAgent.ipynb` to get started with train the environment with Single Agent or 20 Agents respectively!  
+Follow the instructions in `Continuous_Control_Single.ipynb` or `Continuous_Control_Multi.ipynb` to get started with train the environment with Single Agent or 20 Agents respectively!  
